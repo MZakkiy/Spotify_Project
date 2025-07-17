@@ -18,7 +18,7 @@ The goal of this project was to test the hypothesis that specific, measurable au
     * **Musical Key:** Whether a song is in a major ("happy") or minor ("sad") key has a negligible effect.
     * **Explicit Lyrics:** While explicit songs have a slightly higher average popularity, the difference is too small to be a determining factor.
 
-3.  **Genre and Artist Remain Key Pillars of Success:** The analysis consistently showed that broader, contextual factors are far more important than isolated audio features. The most popular songs were concentrated within specific genres (like **Pop-film** and **K-pop**) and were produced by a handful of globally recognized artists.
+3.  **Genre Remain Key Pillars of Success:** The analysis consistently showed that broader, contextual factors are far more important than isolated audio features. The most popular songs were concentrated within specific genres (like **Pop-film** and **K-pop**).
 
 ## Tools and Libraries
 
